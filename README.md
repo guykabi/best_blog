@@ -6,6 +6,10 @@ Welcome to the place you can upload whatever you want!!
 
 BEST BLOG is a modern web application that allows users to create and share blog posts. Express yourself freely by uploading text, images, and other content in a user-friendly environment.
 
+##Just before
+The data is fetched from json-placeholder, so I had to generate names and images ( not too much :) ) .
+You may see duplicates of images and names, it's on purpose...
+
 ## Getting Started
 
 These instructions will help you set up a local copy of the project for development.
